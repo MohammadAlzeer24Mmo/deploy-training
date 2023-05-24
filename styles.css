@@ -4,3 +4,8 @@ body{
 div{
     background-color: purple;
 }
+p{
+    color: rgb(194, 140, 140);
+    background-color: darkgreen;
+    border: 4px solid blue;
+}
